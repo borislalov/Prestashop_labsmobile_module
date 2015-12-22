@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>labsmobile</name>
+	<displayName><![CDATA[LabsMobile SMS]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[With LabsMobile SMS module for Prestashop you will be able to integrate all the LabsMobile features with no coding. This module requires to have an account with labsmobile.com and have available credit.]]></description>
+	<author><![CDATA[LabsMobile Dev Team]]></author>
+	<tab><![CDATA[emailing]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall? You will not be able to send sms notifications.]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
